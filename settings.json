@@ -1,6 +1,6 @@
 {
-    "owners": ["492552276326481930""],
-    "token": "process.env.BOT_TOKEN",  //Wow
+    "owners": ["492552276326481930"],
+	"token": "NTAyNTQ4OTMxMTk3MTQwOTky.DtmBRw.0tPlVpVscNwXJ0Xgir0sCsJR63U",
     "prefix": "!",
     "sqlitefilename": "",
     "googleKey": "AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8",
